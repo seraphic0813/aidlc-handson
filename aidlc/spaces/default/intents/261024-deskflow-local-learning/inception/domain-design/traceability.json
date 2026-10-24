@@ -1,0 +1,39 @@
+{
+  "stage": "domain-design",
+  "upstream_ids": [
+    "FR1.1", "FR1.2", "FR1.3", "FR1.4",
+    "FR2.1", "FR2.2",
+    "FR3.1", "FR3.2", "FR3.3", "FR3.4",
+    "FR4.1", "FR4.2", "FR4.3",
+    "FR5.1", "FR5.2", "FR5.3",
+    "FR6.1", "FR6.2",
+    "FR7.1", "FR7.2", "FR7.3",
+    "FR8.1", "FR8.2"
+  ],
+  "coverage": [
+    { "id": "FR1.1", "status": "OK", "target": "InquiryManagement" },
+    { "id": "FR1.2", "status": "OK", "target": "InquiryManagement" },
+    { "id": "FR1.3", "status": "OK", "target": "Inquiry" },
+    { "id": "FR1.4", "status": "OK", "target": "SubmissionReceipt" },
+    { "id": "FR2.1", "status": "OK", "target": "InquiryManagement" },
+    { "id": "FR2.2", "status": "OK", "target": "DeskFlowInterface" },
+    { "id": "FR3.1", "status": "OK", "target": "InquiryManagement" },
+    { "id": "FR3.2", "status": "OK", "target": "Inquiry" },
+    { "id": "FR3.3", "status": "OK", "target": "InquiryManagement" },
+    { "id": "FR3.4", "status": "OK", "target": "InquiryManagement" },
+    { "id": "FR4.1", "status": "OK", "target": "InquiryManagement" },
+    { "id": "FR4.2", "status": "OK", "target": "InquiryManagement" },
+    { "id": "FR4.3", "status": "OK", "target": "InquiryManagement" },
+    { "id": "FR5.1", "status": "OK", "target": "InquiryManagement" },
+    { "id": "FR5.2", "status": "OK", "target": "InquiryManagement" },
+    { "id": "FR5.3", "status": "OK", "target": "DeskFlowInterface" },
+    { "id": "FR6.1", "status": "OK", "target": "InitializationCheckpoint" },
+    { "id": "FR6.2", "status": "OK", "target": "InitializationCheckpoint" },
+    { "id": "FR7.1", "status": "OK", "target": "InquiryManagement" },
+    { "id": "FR7.2", "status": "OK", "target": "InquiryManagement" },
+    { "id": "FR7.3", "status": "OK", "target": "InquiryManagement" },
+    { "id": "FR8.1", "status": "OK", "target": "DeskFlowInterface" },
+    { "id": "FR8.2", "status": "OK", "target": "DeskFlowInterface" }
+  ],
+  "reverse": []
+}
