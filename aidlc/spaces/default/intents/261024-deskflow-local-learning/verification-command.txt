@@ -1,0 +1,1 @@
+npm --prefix deskflow run verify
